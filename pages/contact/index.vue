@@ -1,6 +1,5 @@
 <template>
   <Header />
-
   <!-- ================> Page header start here <================== -->
   <section class="page-header bg-color-1">
     <div class="container">

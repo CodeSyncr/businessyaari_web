@@ -1,12 +1,14 @@
 <template>
+  <Preloader />
+  <ColorSwitch />
   <header class="header-section bg-color-3">
     <div class="header-bottom">
       <div class="container">
         <div class="header-wrapper">
           <div class="logo">
-            <a href="index-2.html">
+            <NuxtLink to="/">
               <img class="dark" src="/assets/images/logo/logo.png" alt="logo" />
-            </a>
+            </NuxtLink>
           </div>
           <div class="menu-area">
             <ul class="menu menu--style1">
