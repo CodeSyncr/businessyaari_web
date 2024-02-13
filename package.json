@@ -10,12 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@vee-validate/zod": "^4.12.5",
     "nuxt": "^3.10.1",
+    "nuxt-snackbar": "^1.0.4",
     "nuxt-swiper": "^1.2.2",
+    "vee-validate": "^4.12.5",
     "vue": "^3.4.15",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@nuxtjs/supabase": "^1.1.6",
     "nuxt-aos": "^1.2.2"
   }
 }

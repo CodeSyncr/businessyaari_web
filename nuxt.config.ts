@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["nuxt-aos", "nuxt-swiper"],
+  modules: ["nuxt-aos", "nuxt-swiper", "@nuxtjs/supabase", "nuxt-snackbar"],
   app: {
     head: {
       bodyAttrs: {
@@ -50,5 +50,13 @@ export default defineNuxtConfig({
         },
       ],
     },
+  },
+  supabase: {
+    redirect: false,
+  },
+  snackbar: {
+    bottom: true,
+    right: true,
+    duration: 5000,
   },
 });
