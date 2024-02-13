@@ -4,6 +4,57 @@ export default defineNuxtConfig({
   modules: ["nuxt-aos", "nuxt-swiper", "@nuxtjs/supabase", "nuxt-snackbar"],
   app: {
     head: {
+      charset: "utf-8",
+      viewport: "width=device-width, initial-scale=1",
+      meta: [
+        {
+          name: "description",
+          content:
+            "File your Income tax return with our support in minutes. Businessyaari ensures accurate efiling of ITR with maximum tax refund. Registered with incometax.gov.in.",
+        },
+        {
+          property: "og:type",
+          content: "website",
+        },
+        {
+          property: "og:site_name",
+          content: "Businessyaari",
+        },
+        {
+          property: "og:title",
+          content: "File Income-tax return for 2024",
+        },
+        {
+          property: "og:description",
+          content:
+            "File your Income tax return with our support in minutes. Businessyaari ensures accurate efiling of ITR with maximum tax refund. Registered with incometax.gov.in.",
+        },
+        {
+          property: "og:image",
+          content: "/assets/logo/preloader.png",
+        },
+        {
+          name: "twitter:title",
+          content: "File Income-tax return for 2024",
+        },
+        {
+          name: "twitter:description",
+          content:
+            "File your Income tax return with our support in minutes. Businessyaari ensures accurate efiling of ITR with maximum tax refund. Registered with incometax.gov.in.",
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
+        {
+          name: "twitter:site",
+          content: "@businessyaari",
+        },
+        {
+          name: "twitter:image",
+          content: "/assets/logo/preloader.png",
+        },
+      ],
       bodyAttrs: {
         class: "bg-gray-50",
         "data-aos-easing": "ease",

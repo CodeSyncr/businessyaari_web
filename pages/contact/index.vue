@@ -257,6 +257,10 @@ import { toTypedSchema } from "@vee-validate/zod";
 import { Field, useForm } from "vee-validate";
 import { z } from "zod";
 
+useSeoMeta({
+  title: "Businessyaari | Contact Us",
+});
+
 const snackbar = useSnackbar();
 
 const VALIDATION_TEXT = {

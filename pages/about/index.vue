@@ -1,3 +1,8 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: "Businessyaari | About",
+});
+</script>
 <template>
   <Header />
   <!-- ================> Page header start here <================== -->
