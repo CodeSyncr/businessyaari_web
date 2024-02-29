@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Income Tax Return",
+        "description": "Precision tax filing for individuals and businesses, optimizing deductions efficiently.",
+        "details": "",
+        "image": "/assets/images/service/2.png",
+        "sub_services": [
+            {
+                "name": "Individual/Proprietorship",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Partnership",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠HUF (Hindu Undivided Family)",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "LLP (Limited Liability Partnership)",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "NGO/Trust",
+                "details": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "name": "GST",
+        "description": "Expert GST services ensuring seamless registration and compliance for businesses.",
+        "details": "",
+        "image": "/assets/images/service/1.png",
+        "sub_services": [
+            {
+                "name": "GST Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "GST Return filing",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "GST nil Return",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠GST modification",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠GSTR-9 Annual filings",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠GST LUT filing",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠GST e-way Bill",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠GST Notice",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠⁠GST Cancellation",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Others",
+                "details": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "name": "Trademark",
+        "description": "Protect and secure brand identity through meticulous trademark registration services.",
+        "details": "",
+        "image": "/assets/images/service/6.png",
+        "sub_services": [
+            {
+                "name": "Trademark Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Trademark Renewal",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Trademark Objection ",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Trademark Hearing",
+                "details": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "name": "Registration",
+        "description": "Streamlined business registrations, ensuring compliance with legal requirements for startups.",
+        "details": "",
+        "image": "/assets/images/service/4.png",
+        "sub_services": [
+            {
+                "name": "Partnership Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "LLP (Limited Liability Partnership) Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠One person company Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Private Limited company Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Public limited company Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Section 8 company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Nidhi Company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "HUF Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠⁠NGO Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "FSSAI Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "MSME Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Startup Registration",
+                "details": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "name": "Compliance",
+        "description" : "Ongoing legal compliance services, offering audits, documentation, and reporting solutions.",
+        "details": "",
+        "image": "/assets/images/service/5.png",
+        "sub_services": [
+            {
+                "name": "⁠Director KYC",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Director Appointment",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠⁠Shifting of registered office within same city",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Remove a Director",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Change objects of the company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Change in authorized capital",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Annual filing of company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Change of AOM & MOA",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠Strike off of Company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Strike off Company",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Others",
+                "details": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "name": "Others",
+        "image": "/assets/images/service/3.png",
+        "description": "Tailored professional services, including PF, ESL, and tax registrations.",
+        "details": "",
+        "sub_services": [
+            {
+                "name": "⁠PF Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "PF Return Filing",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "⁠ESL Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Professional tax Registration",
+                "details": "",
+                "price": ""
+            },
+            {
+                "name": "Others",
+                "details": "",
+                "price": ""
+            }
+        ]
+    }
+]

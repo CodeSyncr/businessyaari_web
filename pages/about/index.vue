@@ -117,15 +117,21 @@ useSeoMeta({
                   <h2>Learn More About <span>our company </span></h2>
                 </div>
                 <p class="mb-0">
-                  Hey there! So glad you stopped by to Meet Our Company. Don't
-                  miss out on this opportunity to learn about what we do and the
-                  amazing team that makes it all happen!
+                  Welcome to Businessyaari, where excellence meets expertise in
+                  financial and legal services. As a trusted partner, we
+                  specialize in a spectrum of services, including Income Tax
+                  Return, GST, Trademark, Registration, and Compliance. Our
+                  commitment extends beyond the ordinary, with tailored
+                  solutions such as PF Registration, PF Return Filing, ESL
+                  Registration, and Professional Tax Registration under our
+                  'Others' category.
                 </p>
                 <p class="mb-0">
-                  Our company is all about creating innovative solutions and
-                  providing top-notch services to our clients. From start to
-                  finish, we're dedicated to delivering results that exceed
-                  expectations.
+                  At Businessyaari, we take pride in navigating complexities,
+                  ensuring compliance, and delivering unparalleled service to
+                  meet your business needs. Explore more about our company,
+                  where precision and professionalism define our approach to
+                  fostering your success in the realms of finance and law.
                 </p>
                 <a
                   href="about.html"
