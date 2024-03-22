@@ -197,7 +197,7 @@ useSeoMeta({
                           class="purecounter"
                           data-purecounter-start="0"
                           data-purecounter-end="10"
-                          >30</span
+                          >5</span
                         >
                         Years
                       </h3>
@@ -211,8 +211,8 @@ useSeoMeta({
                           class="purecounter"
                           data-purecounter-start="0"
                           data-purecounter-end="25"
-                          >25K</span
-                        >K+
+                          >10K</span
+                        >+
                       </h3>
                       <p>Satisfied Customers</p>
                     </div>
@@ -229,18 +229,24 @@ useSeoMeta({
             >
               <div class="about__content-inner">
                 <div class="section-header section-header--max18 mb-1">
-                  <h2>Learn More About <span>our company </span></h2>
+                  <h2>We help to grow your <span>business</span></h2>
                 </div>
                 <p class="mb-0">
-                  Hey there! So glad you stopped by to Meet Our Company. Don't
-                  miss out on this opportunity to learn about what we do and the
-                  amazing team that makes it all happen!
+                  Are you a business owner or a salaried professional looking
+                  for regulatory and tax guidance? Business Yaari is here to
+                  offer you the best service for your business, legal, and
+                  financial solutions, with experts guiding you for tax
+                  planning, filling returns and fulfilling regulatory
+                  compliances.
                 </p>
                 <p class="mb-0">
-                  Our company is all about creating innovative solutions and
-                  providing top-notch services to our clients. From start to
-                  finish, we're dedicated to delivering results that exceed
-                  expectations.
+                  At Business Yaari, we understand the challenges you face in
+                  today's dynamic business environment. That's why we're
+                  committed to delivering reliable tax support and expert
+                  guidance every step of the way. With our dedicated team by
+                  your side, you can focus on growing your business with
+                  confidence, knowing that your regulatory and tax needs are in
+                  capable hands.
                 </p>
                 <a
                   href="about.html"
@@ -300,10 +306,7 @@ useSeoMeta({
                       <div class="feature__item">
                         <div class="feature__item-inner">
                           <div class="feature__item-content">
-                            <h6>
-                              up to date with market trends and best practices
-                              in your industry.
-                            </h6>
+                            <h6>Personalized Solutions</h6>
                           </div>
                         </div>
                       </div>
@@ -320,10 +323,7 @@ useSeoMeta({
                       <div class="feature__item">
                         <div class="feature__item-inner">
                           <div class="feature__item-content">
-                            <h6>
-                              Get help from pros with diverse industry
-                              experience.
-                            </h6>
+                            <h6>Unparalleled Expertise</h6>
                           </div>
                         </div>
                       </div>
@@ -341,9 +341,7 @@ useSeoMeta({
                       <div class="feature__item">
                         <div class="feature__item-inner">
                           <div class="feature__item-content">
-                            <h6>
-                              Get personalized advice for your business needs.
-                            </h6>
+                            <h6>We Care</h6>
                           </div>
                         </div>
                       </div>
@@ -360,9 +358,41 @@ useSeoMeta({
                       <div class="feature__item">
                         <div class="feature__item-inner">
                           <div class="feature__item-content">
-                            <h6>
-                              All transactions are free for Pro Traders members.
-                            </h6>
+                            <h6>Transparency</h6>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="nav-link"
+                      id="feat-pills-four-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#feat-pills-four"
+                      role="tab"
+                      aria-controls="feat-pills-four"
+                      aria-selected="false"
+                    >
+                      <div class="feature__item">
+                        <div class="feature__item-inner">
+                          <div class="feature__item-content">
+                            <h6>Timely Delivery</h6>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="nav-link"
+                      id="feat-pills-four-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#feat-pills-four"
+                      role="tab"
+                      aria-controls="feat-pills-four"
+                      aria-selected="false"
+                    >
+                      <div class="feature__item">
+                        <div class="feature__item-inner">
+                          <div class="feature__item-content">
+                            <h6>Affordable</h6>
                           </div>
                         </div>
                       </div>
@@ -404,7 +434,7 @@ useSeoMeta({
                           <p class="style2">Success Rate</p>
                         </div>
                       </div>
-                      <div
+                      <!-- <div
                         class="floating-content__bottom-right floating-content__bottom-right--style2"
                       >
                         <div
@@ -415,12 +445,12 @@ useSeoMeta({
                               class="purecounter"
                               data-purecounter-start="0"
                               data-purecounter-end="24"
-                              >25K</span
+                              >12</span
                             >/7
                           </h3>
                           <p class="ms-3 style2">Online service</p>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                   <div
@@ -619,7 +649,7 @@ useSeoMeta({
   <!-- ===============>> Service section start here <<================= -->
 
   <!-- ===============>> Pricing section start here <<================= -->
-  <section class="pricing padding-top padding-bottom bg-color-4">
+  <!-- <section class="pricing padding-top padding-bottom bg-color-4">
     <div class="section-header section-header--max50">
       <h2 class="mb-15 mt-minus-10"><span>pricings </span>We offer</h2>
       <p>
@@ -638,13 +668,10 @@ useSeoMeta({
             >
               <div class="pricing__item-inner">
                 <div class="pricing__item-content">
-                  <!-- pricing top part -->
                   <div class="pricing__item-top">
                     <h6 class="mb-15">Basic</h6>
                     <h3 class="mb-25">$99/<span>Monthly</span></h3>
                   </div>
-
-                  <!-- pricing middle part -->
                   <div class="pricing__item-middle">
                     <ul class="pricing__list">
                       <li class="pricing__list-item">
@@ -686,7 +713,6 @@ useSeoMeta({
                     </ul>
                   </div>
 
-                  <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
                     <a href="signup.html" class="trk-btn trk-btn--outline"
                       >Choose Plan</a
@@ -704,13 +730,11 @@ useSeoMeta({
             >
               <div class="pricing__item-inner active">
                 <div class="pricing__item-content">
-                  <!-- pricing top part -->
                   <div class="pricing__item-top">
                     <h6 class="mb-15">standard</h6>
                     <h3 class="mb-25">$149/<span>Monthly</span></h3>
                   </div>
 
-                  <!-- pricing middle part -->
                   <div class="pricing__item-middle">
                     <ul class="pricing__list">
                       <li class="pricing__list-item">
@@ -761,7 +785,6 @@ useSeoMeta({
                     </ul>
                   </div>
 
-                  <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
                     <a
                       href="signup.html"
@@ -781,13 +804,13 @@ useSeoMeta({
             >
               <div class="pricing__item-inner">
                 <div class="pricing__item-content">
-                  <!-- pricing top part -->
+                 
                   <div class="pricing__item-top">
                     <h6 class="mb-15">premium</h6>
                     <h3 class="mb-25">$199/<span>Monthly</span></h3>
                   </div>
 
-                  <!-- pricing middle part -->
+       
                   <div class="pricing__item-middle">
                     <ul class="pricing__list">
                       <li class="pricing__list-item">
@@ -829,7 +852,6 @@ useSeoMeta({
                     </ul>
                   </div>
 
-                  <!-- pricing bottom part -->
                   <div class="pricing__item-bottom">
                     <a href="signup.html" class="trk-btn trk-btn--outline"
                       >Choose Plan</a
@@ -842,11 +864,11 @@ useSeoMeta({
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- ===============>> Pricing section start here <<================= -->
 
   <!-- ===============>> Team section start here <<================= -->
-  <section class="team padding-top padding-bottom bg-color-2">
+  <!-- <section class="team padding-top padding-bottom bg-color-2">
     <div class="section-header section-header--max50">
       <h2 class="mb-15 mt-minus-10">Meet our <span>advisers</span></h2>
       <p>
@@ -1155,7 +1177,7 @@ useSeoMeta({
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- ===============>> Team section start here <<================= -->
 
   <!-- ===============>> Blog section start here <<================= -->
