@@ -84,7 +84,7 @@
                   href="signup.html"
                   class="trk-btn trk-btn--border trk-btn--primary1"
                 >
-                  <span>Join Now</span>
+                  <span>Talk To Expert</span>
                 </a>
               </div>
 
