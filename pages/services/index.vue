@@ -22,7 +22,7 @@ useSeoMeta({
         <h2>Services</h2>
         <nav style="--bs-breadcrumb-divider: '/'" aria-label="breadcrumb">
           <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item"><NuxtLink to="/">Home</NuxtLink></li>
             <li class="breadcrumb-item active" aria-current="page">Services</li>
           </ol>
         </nav>
@@ -74,9 +74,11 @@ useSeoMeta({
                   </div>
                   <div class="service__content">
                     <h5 class="mb-15">
-                      <a class="stretched-link" href="service-details.html">{{
-                        service.name
-                      }}</a>
+                      <NuxtLink
+                        class="stretched-link"
+                        :to="'/services/' + service.id"
+                        >{{ service.name }}</NuxtLink
+                      >
                     </h5>
                     <p class="mb-0">
                       {{ service.description }}

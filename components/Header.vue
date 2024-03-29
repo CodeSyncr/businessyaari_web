@@ -80,12 +80,12 @@
           <div class="header-action">
             <div class="menu-area">
               <div class="header-btn">
-                <a
-                  href="signup.html"
+                <NuxtLink
+                  to="/contact"
                   class="trk-btn trk-btn--border trk-btn--primary1"
                 >
                   <span>Talk To Expert</span>
-                </a>
+                </NuxtLink>
               </div>
 
               <!-- toggle icons -->

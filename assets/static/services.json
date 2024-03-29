@@ -1,9 +1,11 @@
 [
     {
+        "id": 1,
         "name": "Income Tax Return",
         "description": "Precision tax filing for individuals and businesses, optimizing deductions efficiently.",
-        "details": "",
+        "details": "Are you ready to take your trading skills to the next level? Then, you need to check out these modules for smart trading! With these modules, you'll be able to analyze market trends and make intelligent trades. Whether you're a beginner or a seasoned pro, these modules are designed to help you succeed. You'll learn everything from technical analysis to risk management, so you can make the best decisions for your investments.",
         "image": "/assets/images/service/2.png",
+        "poster": "/assets/images/service/bg.png",
         "sub_services": [
             {
                 "name": "Individual/Proprietorship",
@@ -35,13 +37,41 @@
                 "details": "",
                 "price": ""
             }
+        ],
+        "faq": [
+            {
+                "ques": "What Does This Tool Do?",
+                "ans": "This is an artificial intelligence integrated tool by which you can automate your PTE and IELTS mock test systems in your educational systems."
+            },
+            {
+                "ques": "What Are The Disadvantages Of Online Trading?",
+                "ans": "You don’t need to worry, the interface is user-friendly. Anyone can use it smoothly. Our user manual will help you to solve your problem. If you do find yourself needing some help, feel free to reach out to our support team through our Contact page, or visit our Support Center."
+            },
+            {
+                "ques": "Is Online Trading Safe?",
+                "ans": "Definitely, you can give permission to all of your team members and can set their roles based on their position to manage it in your institution."
+            },
+            {
+                "ques": "What Is Online Trading, And How Does It Work?",
+                "ans": "Definitely, you can give permission to all of your team members and can set their roles based on their position to manage it in your institution."
+            },
+            {
+                "ques": "Which App Is Best For Online Trading?",
+                "ans": "Definitely, you can give permission to all of your team members and can set their roles based on their position to manage it in your institution."
+            },
+            {
+                "ques": "How To Create A Trading Account?",
+                "ans": "Definitely, you can give permission to all of your team members and can set their roles based on their position to manage it in your institution."
+            }
         ]
     },
     {
+        "id": 2,
         "name": "GST",
         "description": "Expert GST services ensuring seamless registration and compliance for businesses.",
         "details": "",
         "image": "/assets/images/service/1.png",
+        "poster": "/assets/images/service/bg.png",
         "sub_services": [
             {
                 "name": "GST Registration",
@@ -96,10 +126,12 @@
         ]
     },
     {
+        "id": 3,
         "name": "Trademark",
         "description": "Protect and secure brand identity through meticulous trademark registration services.",
         "details": "",
         "image": "/assets/images/service/6.png",
+        "poster": "/assets/images/service/bg.png",
         "sub_services": [
             {
                 "name": "Trademark Registration",
@@ -124,10 +156,12 @@
         ]
     },
     {
+        "id": 4,
         "name": "Registration",
         "description": "Streamlined business registrations, ensuring compliance with legal requirements for startups.",
         "details": "",
         "image": "/assets/images/service/4.png",
+        "poster": "/assets/images/service/bg.png",
         "sub_services": [
             {
                 "name": "Partnership Registration",
@@ -192,10 +226,12 @@
         ]
     },
     {
+        "id": 5,
         "name": "Compliance",
         "description" : "Ongoing legal compliance services, offering audits, documentation, and reporting solutions.",
         "details": "",
         "image": "/assets/images/service/5.png",
+        "poster": "/assets/images/service/bg.png",
         "sub_services": [
             {
                 "name": "⁠Director KYC",
@@ -255,8 +291,10 @@
         ]
     },
     {
+        "id": 6,
         "name": "Others",
         "image": "/assets/images/service/3.png",
+        "poster": "/assets/images/service/bg.png",
         "description": "Tailored professional services, including PF, ESL, and tax registrations.",
         "details": "",
         "sub_services": [
