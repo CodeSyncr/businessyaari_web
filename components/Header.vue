@@ -40,14 +40,14 @@
                 </ul> -->
               </li>
               <li>
-                <NuxtLink to="services">Services</NuxtLink>
+                <NuxtLink to="/services">Services</NuxtLink>
                 <!-- <ul class="submenu">
                   <li><NuxtLink to="services">Services</NuxtLink></li>
                   <li><a href="service-details.html">Services Details</a></li>
                 </ul> -->
               </li>
               <li>
-                <NuxtLink to="about">About</NuxtLink>
+                <NuxtLink to="/about">About</NuxtLink>
                 <!-- <ul class="submenu">
                   <li><a href="about.html">About Us</a></li>
                   <li><a href="price.html">Price</a></li>
@@ -73,7 +73,7 @@
                 </ul>
               </li> -->
               <li>
-                <NuxtLink to="contact">Contact Us</NuxtLink>
+                <NuxtLink to="/contact">Contact Us</NuxtLink>
               </li>
             </ul>
           </div>
